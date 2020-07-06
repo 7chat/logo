@@ -1,0 +1,26 @@
+#7chatsapp{
+    height:240px;
+    width:240px;
+    position:absolute ;
+    margin:auto;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+}
+#circle{
+    position:absolute;
+    width:140px;
+    height:140px;
+    border-radius:50%;
+    background-color:black;
+    left:55px;
+    top:55px;
+}
+
+#text{
+    font-size:150px;
+    font-weight:bolder ;
+    transform:translate(45px,7px);
+    color:white;
+}
